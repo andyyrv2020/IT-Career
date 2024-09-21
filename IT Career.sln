@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNum", "FibonacciNum\FibonacciNum.csproj", "{11BDB06D-143B-4A04-9EFC-75FEFB427A33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackpackDp", "BackpackDp\BackpackDp.csproj", "{01DD938B-0456-47F3-ACC1-6BBB8BB07B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{11BDB06D-143B-4A04-9EFC-75FEFB427A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11BDB06D-143B-4A04-9EFC-75FEFB427A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11BDB06D-143B-4A04-9EFC-75FEFB427A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DD938B-0456-47F3-ACC1-6BBB8BB07B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DD938B-0456-47F3-ACC1-6BBB8BB07B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DD938B-0456-47F3-ACC1-6BBB8BB07B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DD938B-0456-47F3-ACC1-6BBB8BB07B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
